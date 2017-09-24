@@ -1,5 +1,5 @@
 # Machine-Learning-algorithm-from-scratch
-Linear regression
+## Linear regression
 
 Linear regression implementation with Numpy
 A linear model makes a prediction by simply computing a weighted sum of the input features, plus a constant called the bias term.
