@@ -2,6 +2,7 @@
 ## Linear regression
 
 Linear regression implementation with Numpy
+
 A linear model makes a prediction by simply computing a weighted sum of the input features, plus a constant called the bias term.
 
 Equation  y = θ+ X1θ1 + X2θ2 + ...
@@ -10,6 +11,7 @@ vectorized form of above equation
 
 
 Therefore, to train a Linear Regression model, you need to find the value of θ that minimizes the RMSE. In practice, it is simpler to minimize the Mean Square Error (MSE) than the RMSE, and it leads to the same result (because the value that minimizes a function also minimizes its square root)
+
 The MSE of a Linear Regression hypothesis hθ on a training set X is calculated using Equation 4-3.
 MSE cost function for a Linear Regression model
 
